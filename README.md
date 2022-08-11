@@ -1,2 +1,2 @@
-# Faster-Algo-For-Calculating-HCF
-This method provides faster results in calculation of HCF of two numbers
+# Faster-Algo-For-Mathematical-Calculations
+This method provides faster results in calculation of various mathematical operations.
