@@ -1,2 +1,2 @@
 # Faster-Algo-For-Mathematical-Calculations
-This method provides faster results in calculation of various mathematical equation.
+These methods provides faster results in various mathematical operations.
