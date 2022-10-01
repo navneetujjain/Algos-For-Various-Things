@@ -1,3 +1,4 @@
+#This program is for printing last digit of any fibonacci number(usually a little larger one).
 n=int(input())
 n=n%60
 if n%60!=0:
