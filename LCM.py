@@ -19,5 +19,5 @@ c=np.lcm(int(a),int(b))
 print(c)
 # 2. Little Mathematical Method
 d = gcd(a,b)
-e = (a * b) // d
+e = (int(a) * int(b)) // d
 print(e)
